@@ -1,0 +1,2049 @@
+Name,Type,Size,Property,Value
+FILEID,Short Text,6,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {6D317C91-4F2F-4154-A5D4-C96B392AFACD}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,0
+,,,Required: ,False
+,,,SourceField: ,FILEID
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+STUSAB,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {20CB66CB-181A-43CB-9C25-F299AC0BFFBC}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,1
+,,,Required: ,False
+,,,SourceField: ,STUSAB
+,,,SourceTable: ,GEO_HEADER_SF1
+Name,Type,Size,Property,Value
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SUMLEV,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {9E9BC7A6-1078-4A57-B1EE-A90721E729E9}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,2
+,,,Required: ,False
+,,,SourceField: ,SUMLEV
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+GEOCOMP,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {E0315EE3-5BAE-4554-8F68-B41E5834C955}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,3
+,,,Required: ,False
+,,,SourceField: ,GEOCOMP
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CHARITER,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+Name,Type,Size,Property,Value
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {B890DC92-4B18-418D-817E-AE43F20BD08E}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,4
+,,,Required: ,False
+,,,SourceField: ,CHARITER
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CIFSN,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {61C2C503-7599-43C0-BAB2-183148F2134F}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,5
+,,,Required: ,False
+,,,SourceField: ,CIFSN
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+LOGRECNO,Long Integer,7,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,False
+,,,AppendOnly: ,False
+,,,Attributes: ,Fixed Size
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DecimalPlaces: ,Auto
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {1195FDDC-5CA4-4A2F-9025-EE7712FB55CF}}
+,,,OrdinalPosition: ,6
+,,,Required: ,False
+,,,SourceField: ,LOGRECNO
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+REGION,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+Name,Type,Size,Property,Value
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {AA333783-A62A-45CF-88CB-243FB23B1079}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,7
+,,,Required: ,False
+,,,SourceField: ,REGION
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+DIVISION,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {5AA1B541-8A9F-4676-89B9-185AE35BB24C}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,8
+,,,Required: ,False
+,,,SourceField: ,DIVISION
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+STATE,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {8BA60533-0A41-4538-88B8-F1DBDD44AFA8}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,9
+,,,Required: ,False
+,,,SourceField: ,STATE
+Name,Type,Size,Property,Value
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUNTY,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {DE31C2BE-0C2B-4339-8B00-649D411113E1}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,10
+,,,Required: ,False
+,,,SourceField: ,COUNTY
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUNTYCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {0110A584-5CEF-4E5A-BF1E-B877F3A3C207}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,11
+,,,Required: ,False
+,,,SourceField: ,COUNTYCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUNTYSC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+Name,Type,Size,Property,Value
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {459C9CC5-53C8-4905-AD28-B2D4D1F42819}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,12
+,,,Required: ,False
+,,,SourceField: ,COUNTYSC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUSUB,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {70161015-A400-4B8E-ADF4-39C5F31F3CD0}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,13
+,,,Required: ,False
+,,,SourceField: ,COUSUB
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUSUBCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {C446A144-08CB-497D-ACD3-046B90B2BF76}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,14
+,,,Required: ,False
+,,,SourceField: ,COUSUBCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUSUBSC,Short Text,2,,
+Name,Type,Size,Property,Value
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {ED03F37E-DC3D-45CC-B10D-647D9DEA952B}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,15
+,,,Required: ,False
+,,,SourceField: ,COUSUBSC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+PLACE,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {3CC7F95E-17EF-46FA-9BF3-D1AA4F84BB7A}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,16
+,,,Required: ,False
+,,,SourceField: ,PLACE
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+PLACECC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {D20E6614-82EA-41C9-B512-7BA207E488D5}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+Name,Type,Size,Property,Value
+,,,OrdinalPosition: ,17
+,,,Required: ,False
+,,,SourceField: ,PLACECC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+PLACESC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {0ACB195A-C646-4B13-92A7-5F47794DCC1B}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,18
+,,,Required: ,False
+,,,SourceField: ,PLACESC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+TRACT,Short Text,6,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {50A7A658-9BE3-4071-BAB1-11CC017F934D}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,19
+,,,Required: ,False
+,,,SourceField: ,TRACT
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+BLKGRP,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+Name,Type,Size,Property,Value
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {01364988-017C-402F-B459-437D6662393E}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,20
+,,,Required: ,False
+,,,SourceField: ,BLKGRP
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+BLOCK,Short Text,4,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {F06B3440-566F-40EB-B12C-C6D3D3CDB4CC}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,21
+,,,Required: ,False
+,,,SourceField: ,BLOCK
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+IUC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {0A99011F-6547-47C2-8CBD-0EA3DDA19CCD}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,22
+,,,Required: ,False
+,,,SourceField: ,IUC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+Name,Type,Size,Property,Value
+,,,UnicodeCompression: ,False
+CONCIT,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {65DBE571-4E98-4948-BA21-831AA4C42D88}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,23
+,,,Required: ,False
+,,,SourceField: ,CONCIT
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CONCITCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {2919D9D6-0A23-42FF-A036-1645B7DA8E3E}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,24
+,,,Required: ,False
+,,,SourceField: ,CONCITCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CONCITSC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+Name,Type,Size,Property,Value
+,,,GUID: ,{guid {8C785A10-B031-45B5-B64F-09CF44FDFA76}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,25
+,,,Required: ,False
+,,,SourceField: ,CONCITSC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AIANHH,Short Text,4,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {B52ED02A-7B83-40CC-B161-D6E603A07501}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,26
+,,,Required: ,False
+,,,SourceField: ,AIANHH
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AIANHHFP,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {B5D236C1-EDA4-43D5-A0F5-725B818CC24A}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,27
+,,,Required: ,False
+,,,SourceField: ,AIANHHFP
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AIANHHCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+Name,Type,Size,Property,Value
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {917E90A3-6FBD-494D-B6EB-1859876359F4}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,28
+,,,Required: ,False
+,,,SourceField: ,AIANHHCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AIHHTLI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {69917DB0-10FC-4F3E-9635-D89D098824EE}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,29
+,,,Required: ,False
+,,,SourceField: ,AIHHTLI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AITSCE,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {87B7184D-19CC-4A91-96DC-B972C246D51A}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,30
+,,,Required: ,False
+Name,Type,Size,Property,Value
+,,,SourceField: ,AITSCE
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AITS,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FA259472-3FAA-4B2C-A88D-FABEDB2E7C31}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,31
+,,,Required: ,False
+,,,SourceField: ,AITS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AITSCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FD0C0DFB-721A-4257-BDAD-5C019E963AD3}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,32
+,,,Required: ,False
+,,,SourceField: ,AITSCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+TTRACT,Short Text,6,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+Name,Type,Size,Property,Value
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {0BC6A37E-1E3F-4547-A5E8-CF89627C7501}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,33
+,,,Required: ,False
+,,,SourceField: ,TTRACT
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+TBLKGRP,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {AFE355EA-0C76-45A0-A7B0-E4A83907A60C}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,34
+,,,Required: ,False
+,,,SourceField: ,TBLKGRP
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+ANRC,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {A9D0221A-BB58-410B-9423-07C9D8E8A065}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,35
+,,,Required: ,False
+,,,SourceField: ,ANRC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+Name,Type,Size,Property,Value
+ANRCCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {4F5EE826-7AB7-4620-82FD-CAB03B72A0A1}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,36
+,,,Required: ,False
+,,,SourceField: ,ANRCCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CBSA,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {8B508055-97D2-4697-94DD-51F0C1F3C2A6}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,37
+,,,Required: ,False
+,,,SourceField: ,CBSA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CBSASC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {CB2D955E-42AD-4E3D-9A5F-137382D2E8C7}}
+,,,IMEMode: ,0
+Name,Type,Size,Property,Value
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,38
+,,,Required: ,False
+,,,SourceField: ,CBSASC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+METDIV,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {33BEB768-B9F1-445E-A537-C64F4D169D78}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,39
+,,,Required: ,False
+,,,SourceField: ,METDIV
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CSA,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {E3A2B62C-9AA3-4A7C-B92C-44030413E3D9}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,40
+,,,Required: ,False
+,,,SourceField: ,CSA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+NECTA,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+Name,Type,Size,Property,Value
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {232C19FB-2709-44F8-886E-69CC8184121C}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,41
+,,,Required: ,False
+,,,SourceField: ,NECTA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+NECTASC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {C4469E8C-04BC-4CDC-8607-B9F1D828BEFD}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,42
+,,,Required: ,False
+,,,SourceField: ,NECTASC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+NECTADIV,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {AB5D06BD-5D3F-4063-BE42-5C12DB9B7D7E}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,43
+,,,Required: ,False
+,,,SourceField: ,NECTADIV
+,,,SourceTable: ,GEO_HEADER_SF1
+Name,Type,Size,Property,Value
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CNECTA,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {B4B61363-5893-472D-A067-CE95D2A62B0E}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,44
+,,,Required: ,False
+,,,SourceField: ,CNECTA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CBSAPCI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FAA00445-07B1-4F6E-91EE-292001FB0318}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,45
+,,,Required: ,False
+,,,SourceField: ,CBSAPCI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+NECTAPCI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+Name,Type,Size,Property,Value
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {C01574A7-2272-4B43-812D-4D95BCCCDA5B}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,46
+,,,Required: ,False
+,,,SourceField: ,NECTAPCI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+UA,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {A7185D12-FD00-433A-855E-A4EC69940EB3}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,47
+,,,Required: ,False
+,,,SourceField: ,UA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+UASC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {61D0963E-2303-4B9F-B4A0-623C8B6AF5B6}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,48
+,,,Required: ,False
+,,,SourceField: ,UASC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+UATYPE,Short Text,1,,
+,,,AggregateType: ,-1
+Name,Type,Size,Property,Value
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FBA735D8-EA12-4FBA-938B-F3B0600CE7A0}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,49
+,,,Required: ,False
+,,,SourceField: ,UATYPE
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+UR,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {4B57D1E1-2A1E-4794-B062-A1C17D72AD1A}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,50
+,,,Required: ,False
+,,,SourceField: ,UR
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CD,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {497A313C-06F1-4EAD-BFCE-53183A7DA644}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,51
+Name,Type,Size,Property,Value
+,,,Required: ,False
+,,,SourceField: ,CD
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDU,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {3D639576-994E-4DF6-A88D-A3148BF4A075}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,52
+,,,Required: ,False
+,,,SourceField: ,SLDU
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDL,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {A8BF073A-B60D-4168-9273-ADD6C516A0BE}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,53
+,,,Required: ,False
+,,,SourceField: ,SLDL
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+VTD,Short Text,6,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+Name,Type,Size,Property,Value
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {7F9CB02A-6E70-4698-BB3B-5C9788D6D665}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,54
+,,,Required: ,False
+,,,SourceField: ,VTD
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+VTDI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {69AC406A-E525-468A-8076-CD6813099FB0}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,55
+,,,Required: ,False
+,,,SourceField: ,VTDI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+RESERVE2,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {017744B6-4AF0-40D7-9438-7E8483394A1A}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,56
+,,,Required: ,False
+,,,SourceField: ,RESERVE2
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+Name,Type,Size,Property,Value
+ZCTA5,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {CF0FF8E1-CE45-4DA1-A1C6-139EB71A2B88}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,57
+,,,Required: ,False
+,,,SourceField: ,ZCTA5
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SUBMCD,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {01D62CC3-7634-4385-AA7A-383532B9A58C}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,58
+,,,Required: ,False
+,,,SourceField: ,SUBMCD
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SUBMCDCC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {03C10DEE-9CA3-464E-9BE9-375B3BF4F229}}
+,,,IMEMode: ,0
+Name,Type,Size,Property,Value
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,59
+,,,Required: ,False
+,,,SourceField: ,SUBMCDCC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SDELEM,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {73FFE92B-21B1-49D0-AC7A-FC8EF5FEFAC1}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,60
+,,,Required: ,False
+,,,SourceField: ,SDELEM
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SDSEC,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {9BDDEC9A-A94A-48B1-B51E-D7E485A8578B}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,61
+,,,Required: ,False
+,,,SourceField: ,SDSEC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SDUNI,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+Name,Type,Size,Property,Value
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {584C9548-322C-4E18-B202-3CBE03FE62E9}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,62
+,,,Required: ,False
+,,,SourceField: ,SDUNI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AREALAND,Double,14,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,False
+,,,AppendOnly: ,False
+,,,Attributes: ,Fixed Size
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DecimalPlaces: ,Auto
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {914EE51A-C500-4014-9E35-A87EE3F84A6E}}
+,,,OrdinalPosition: ,63
+,,,Required: ,False
+,,,SourceField: ,AREALAND
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+AREAWATR,Double,14,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,False
+,,,AppendOnly: ,False
+,,,Attributes: ,Fixed Size
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DecimalPlaces: ,Auto
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {3A8BDCAD-2631-4638-B5B6-9B495A9D0A8C}}
+,,,OrdinalPosition: ,64
+,,,Required: ,False
+,,,SourceField: ,AREAWATR
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+NAME,Short Text,90,,
+Name,Type,Size,Property,Value
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {DF3C950C-456C-4457-8577-F2CA51E98E41}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,65
+,,,Required: ,False
+,,,SourceField: ,NAME
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+FUNCSTAT,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {23F426EC-0685-4809-AD75-35BAEC7295F7}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,66
+,,,Required: ,False
+,,,SourceField: ,FUNCSTAT
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+GCUNI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {3A7DD0EA-2937-4D40-8277-7F0C8FD4468F}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+Name,Type,Size,Property,Value
+,,,OrdinalPosition: ,67
+,,,Required: ,False
+,,,SourceField: ,GCUNI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+POP100,Long Integer,9,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,False
+,,,AppendOnly: ,False
+,,,Attributes: ,Fixed Size
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DecimalPlaces: ,Auto
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {7942DD13-0EB9-4D8F-8EEE-A05683DE46C0}}
+,,,OrdinalPosition: ,68
+,,,Required: ,False
+,,,SourceField: ,POP100
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+HU100,Long Integer,9,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,False
+,,,AppendOnly: ,False
+,,,Attributes: ,Fixed Size
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DecimalPlaces: ,Auto
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {CEFE91BF-9CE5-4069-9D43-9E0A0EC9400B}}
+,,,OrdinalPosition: ,69
+,,,Required: ,False
+,,,SourceField: ,HU100
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+INTPTLAT,Short Text,11,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+Name,Type,Size,Property,Value
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {6D076E90-BBFD-4A05-88F4-A35A1DAF8AE9}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,70
+,,,Required: ,False
+,,,SourceField: ,INTPTLAT
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+INTPTLON,Short Text,12,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {F1096A7E-FBB0-4EC2-978C-7638D86F6B77}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,71
+,,,Required: ,False
+,,,SourceField: ,INTPTLON
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+LSADC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {38D6D6A7-272C-4AC0-B602-3481F67B7824}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,72
+,,,Required: ,False
+,,,SourceField: ,LSADC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+PARTFLAG,Short Text,1,,
+,,,AggregateType: ,-1
+Name,Type,Size,Property,Value
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {4766D338-4128-4F03-B2B2-23ABD1D51CB1}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,73
+,,,Required: ,False
+,,,SourceField: ,PARTFLAG
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+RESERVE3,Short Text,6,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {BFB47708-877D-4936-8BD7-84E2B8899807}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,74
+,,,Required: ,False
+,,,SourceField: ,RESERVE3
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+UGA,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {42CF38A5-2DE7-4E5A-B3E4-0F721498D2A6}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,75
+Name,Type,Size,Property,Value
+,,,Required: ,False
+,,,SourceField: ,UGA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+STATENS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {398C8D02-80F1-47D7-BA2F-410057CFD59D}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,76
+,,,Required: ,False
+,,,SourceField: ,STATENS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUNTYNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {D94D8A49-6B1F-49EA-8850-520044FB4AB7}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,77
+,,,Required: ,False
+,,,SourceField: ,COUNTYNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+COUSUBNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+Name,Type,Size,Property,Value
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {4DC16E45-983E-4DDF-AA72-5D02BE0EC46A}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,78
+,,,Required: ,False
+,,,SourceField: ,COUSUBNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+PLACENS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {0DD9AA54-D4CD-4489-853E-FD57F29ADFDF}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,79
+,,,Required: ,False
+,,,SourceField: ,PLACENS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CONCITNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FD417009-4B01-4C5C-9EB3-C04E658E89AC}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,80
+,,,Required: ,False
+,,,SourceField: ,CONCITNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+Name,Type,Size,Property,Value
+AIANHHNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {E8176EBA-AAE4-4C15-B9E8-30C615FFBDD8}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,81
+,,,Required: ,False
+,,,SourceField: ,AIANHHNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AITSNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FD0D1AA4-77C0-428A-A0E6-3A0F86AC6D08}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,82
+,,,Required: ,False
+,,,SourceField: ,AITSNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+ANRCNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {5E779873-E80F-4F81-A763-1F426DFAA8EA}}
+,,,IMEMode: ,0
+Name,Type,Size,Property,Value
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,83
+,,,Required: ,False
+,,,SourceField: ,ANRCNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SUBMCDNS,Short Text,8,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {B4780B5E-361B-4FC7-A6FB-E8998A9D73A2}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,84
+,,,Required: ,False
+,,,SourceField: ,SUBMCDNS
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CD113,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {75AF61E9-DDEF-4627-80B6-B6298F24D3FA}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,85
+,,,Required: ,False
+,,,SourceField: ,CD113
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CD114,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+Name,Type,Size,Property,Value
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {09494E77-D705-475A-8237-E126EA8C728E}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,86
+,,,Required: ,False
+,,,SourceField: ,CD114
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CD115,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {22F10B74-89E7-42C9-B616-FE3F50AA93CD}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,87
+,,,Required: ,False
+,,,SourceField: ,CD115
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDU2,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {523B5E14-022F-4515-AE1F-5AEA9014470D}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,88
+,,,Required: ,False
+,,,SourceField: ,SLDU2
+,,,SourceTable: ,GEO_HEADER_SF1
+Name,Type,Size,Property,Value
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDU3,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {6A778F32-319E-4206-B85B-60E3B12D9CE8}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,89
+,,,Required: ,False
+,,,SourceField: ,SLDU3
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDU4,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {7C337827-7B11-47D9-9CDD-91BD749D9CE0}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,90
+,,,Required: ,False
+,,,SourceField: ,SLDU4
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDL2,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+Name,Type,Size,Property,Value
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {81F9FD96-3E79-4413-811B-12512AF2AC12}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,91
+,,,Required: ,False
+,,,SourceField: ,SLDL2
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDL3,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {3771A316-9765-4C60-B236-FE1A6835FC6B}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,92
+,,,Required: ,False
+,,,SourceField: ,SLDL3
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+SLDL4,Short Text,3,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {FAB64DB7-FFC5-472D-B63A-16E325346864}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,93
+,,,Required: ,False
+,,,SourceField: ,SLDL4
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+AIANHHSC,Short Text,2,,
+,,,AggregateType: ,-1
+Name,Type,Size,Property,Value
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {ADD545A9-164D-436D-A3B0-3741095AEB3F}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,94
+,,,Required: ,False
+,,,SourceField: ,AIANHHSC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CSASC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {9B884033-D3E4-4F2A-A16F-B946E4EC74A6}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,95
+,,,Required: ,False
+,,,SourceField: ,CSASC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+CNECTASC,Short Text,2,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {9D1984DC-EDD4-4DC1-BC85-FFCE473C291F}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,96
+Name,Type,Size,Property,Value
+,,,Required: ,False
+,,,SourceField: ,CNECTASC
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+MEMI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {07625C38-9776-46FF-A7A0-C43AD56ABBCF}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,97
+,,,Required: ,False
+,,,SourceField: ,MEMI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+NMEMI,Short Text,1,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {80C0751F-49A7-450A-9BE5-807DA3375B41}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,98
+,,,Required: ,False
+,,,SourceField: ,NMEMI
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+PUMA,Short Text,5,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+Name,Type,Size,Property,Value
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {C536DE3B-5B4C-4EDC-B660-712779C8E827}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,99
+,,,Required: ,False
+,,,SourceField: ,PUMA
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
+RESERVED,Short Text,18,,
+,,,AggregateType: ,-1
+,,,AllowZeroLength: ,True
+,,,AppendOnly: ,False
+,,,Attributes: ,Variable Length
+,,,CollatingOrder: ,General
+,,,ColumnHidden: ,False
+,,,ColumnOrder: ,Default
+,,,ColumnWidth: ,Default
+,,,DataUpdatable: ,False
+,,,DisplayControl: ,Text Box
+,,,GUID: ,{guid {A86D01D6-37CD-4803-8A2E-954098E8C877}}
+,,,IMEMode: ,0
+,,,IMESentenceMode: ,3
+,,,OrdinalPosition: ,100
+,,,Required: ,False
+,,,SourceField: ,RESERVED
+,,,SourceTable: ,GEO_HEADER_SF1
+,,,TextAlign: ,General
+,,,UnicodeCompression: ,False
